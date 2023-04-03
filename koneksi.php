@@ -2,7 +2,7 @@
     $hostname = "Localhost";
     $username = "root";
     $password = "";
-    $database = "pesentiket_uas";
+    $database = "pemesanan";
     
     $connect = mysqli_connect($hostname, $username, $password, $database);
 
